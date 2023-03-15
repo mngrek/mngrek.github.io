@@ -1,2 +1,0 @@
-# mngrek.github.io-
-ok
