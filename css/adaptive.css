@@ -1,0 +1,3208 @@
+@media(max-width:1200px){
+    .secondscr .secscttxt {
+        font-size: 70px;
+        color: white;
+        font-family: 'Mitr', sans-serif;
+        padding: 0 0 0 0;
+        margin: -465px 0 0 45px;
+        font-weight: bold;
+    }
+
+
+    .header .logo {
+        font-size: 30px;
+        font-family: 'Monoton', cursive;
+        width: 360px;
+        text-align: center;
+        color: white;
+    }
+
+
+    .header .logo {
+        margin: 0 0 0 0px;
+    }
+
+    .header {
+        width: auto;
+        height: 125px;
+        padding: 25px 0 0 0;
+    }
+
+    .whychoose .wcimg {
+        width: 550px;
+        height: 390px;
+        padding: 124px 0 0 625px;
+        position: absolute;
+    }
+
+    .whychoose .wctextgoal {
+        color: white;
+        font-family: 'Mitr', sans-serif;
+        font-size: 36px;
+        font-weight: bold;
+        padding: 76px 0 40px 59px;
+    }
+
+    .offer h1 {
+        font-size: 48px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        margin: 98px 0 100px 490px;
+    }
+
+    .offer .offercaseone .caseoneimg {
+        width: 540px;
+        height: 364px;
+        position: absolute;
+        padding: 0px 0px 0px 649px;
+        margin: -364px 0px 18px;
+    }
+
+    .offer .offercaseone .caseonegoaltextsecond {
+        font-size: 16px;
+        padding: 0 0 0 75px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    }
+
+    .offer .offercasetwo .casetwoimg {
+        position: absolute;
+        padding: 0 0 0 0;
+        width: 540px;
+        height: 364px;
+        margin: -403px 0 0 40px;
+    }
+
+    .offer .offercasetwo .casetwotxt {
+        font-size: 16px;
+        padding: 30px 0 0 650px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    }
+
+    .offer .offercasetwo .casetwotxt br{
+        display: none;
+    }
+
+    .offer .offercasetwo .casetwotxtgoal {
+        font-size: 34px;
+        padding: 125px 0 0px 649px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    }
+
+    .offer .offercasetwo .offerbtncasetwo {
+        margin: 27px 0 0 650px;  
+    }
+
+    .offer .offercasetwo .casetwoimg {
+        position: absolute;
+        padding: 0 0 0 0;
+        width: 540px;
+        height: 364px;
+        margin: -315px 0 0 40px;
+    }
+
+    .offer .offercasetwo .casetwotxtgoal {
+        font-size: 34px;
+        padding: 70px 0 0px 649px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    }
+
+    .offer .offercasetwo{
+        margin: 0 0 180px 0;
+    }
+
+
+    .offer .offercasetwo .casetwotxtgoal {
+        font-size: 34px;
+        padding: 70px 0 0px 649px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        width: 540px;
+    }
+
+    .offer .offercasetwo .casetwotxtgoal br{
+        display: none;
+    }
+
+    .offer .offercasetwo .casetwotxt br{
+        display: none;
+    }
+
+    .line {
+        width: 1100px;
+        height: 3px;
+        background: black;
+        margin: 38px 0 55px 60px;
+    }
+
+    .slideshow-container .mySlides img {
+        height: 750px;
+        width: 1140px;
+    }
+
+    .prev, .next {
+        cursor: pointer;
+        position: absolute;
+        top: 50%;
+        width: auto;
+        margin-top: -22px;
+        padding: 16px;
+        color: white;
+        font-weight: bold;
+        font-size: 64px;
+        transition: 0.6s ease;
+        border-radius: 0 3px 3px 0;
+        user-select: none;
+    }
+
+    .slideshow-container {
+        width: 1140px;
+        height: 700px;
+        position: relative;
+        margin: 0 0 0 41px;
+    }
+
+    .forslider .sliderbutton {
+        width: 308px;
+        height: 74px;
+        border: 3px solid black;
+        margin: 140px 0 40px 440px;
+        background-color: white;
+        font-size: 24px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    }
+
+    .line {
+        width: 1115px;
+        height: 3px;
+        background: black;
+        margin: 38px 0 55px 42px;
+    }
+
+    .slideshow-container {
+        width: 1140px;
+        height: 700px;
+        position: relative;
+        margin: 0 0 0 29px;
+    }
+
+    .uniquecolor .uniquebutton {
+        width: 308px;
+        height: 80px;
+        border: 3px solid black;
+        margin: 50px 0 50px 453px;
+        background-color: white;
+        font-size: 24px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        padding: 0 0 2px 0;
+    }
+
+    .bodyrepair .bodyrepairtext {
+        font-size: 20px;
+        text-align: left;
+        font-family: 'Mitr', sans-serif;
+        margin: 0 0 60px 73px;
+        width: 1100px;
+    }
+
+    .bodyrepair .bodyrepairtext br{
+        display: none;
+    }
+
+    .uniquecolor .uniquebutton {
+        width: 308px;
+        height: 80px;
+        border: 3px solid black;
+        margin: 75px 0 50px 453px;
+        background-color: white;
+        font-size: 24px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        padding: 0 0 2px 0;
+    }
+
+
+    .bodyrepair .bodyrepairtextgoal2 {
+        font-size: 28px;
+        text-align: center;
+        font-family: 'Mitr', sans-serif;
+        margin-bottom: 50px;
+        margin: 0 0 40px 5px;
+    }
+
+    .bodyrepair .repaircases div {
+        display: flex;
+        padding: 30px 0 0 80px;
+    }
+
+    .bodyrepair .repairimg {
+        width: 540px;
+        height: 406px;
+        position: absolute;
+        margin: -405px 0 0px 627px;
+    }
+
+    .bodyrepair .repairbutton {
+        width: 308px;
+        height: 74px;
+        border: 3px solid black;
+        margin: 31px 0 0px 139px;
+        background-color: white;
+        font-size: 24px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    }
+
+    .map .mapcart iframe {
+        width: 1100px;
+        height: 600px;
+        border: 0;
+        margin: 0 0 0 47px;
+    }
+
+    footer .footerimg {
+        width: 542px;
+        height: 145px;
+        margin: -184px 0 0 616px;
+        position: absolute;
+    }
+    .header .navigation a {
+        text-decoration: none;
+        font-size: 24px;
+        color: white;
+        font-family: 'Mitr', sans-serif;
+        padding: 0 0 0 50px;
+    }
+
+    .header .navigation {
+        margin: -68px 0 0 360px;
+    }
+
+    .header .linksimg {
+        margin: -35px 0 0 890px;
+    }
+
+    .whychoose .wcimg {
+        width: 550px;
+        height: 370px;
+        padding: 130px 0 0 625px;
+        position: absolute;
+    }
+
+    .slideshow-container .mySlides img {
+        height: 730px;
+        width: 1140px;
+    }
+
+    .forslider .sliderbutton {
+        width: 308px;
+        height: 74px;
+        border: 3px solid black;
+        margin: 115px 0 40px 440px;
+        background-color: white;
+        font-size: 24px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    }
+}
+
+
+@media(max-width:992px){
+    .header .logo {
+        font-size: 24px;
+        font-family: 'Monoton', cursive;
+        width: 280px;
+        text-align: center;
+        color: white;
+    }
+
+    .header {
+        width: auto;
+        height: 103px;
+        padding: 25px 0 0 0;
+    }
+
+    .header .navigation a {
+        text-decoration: none;
+        font-size: 18px;
+        color: white;
+        font-family: 'Mitr', sans-serif;
+        padding: 0 0 0 40px;
+    }
+
+    .header .navigation {
+        margin: -53px 0 0 285px;
+    }
+
+    .header .linksimg {
+        margin: -31px 0 0 715px;
+    }
+
+    .secondscr .secscttxt {
+        font-size: 60px;
+        color: white;
+        font-family: 'Mitr', sans-serif;
+        padding: 0 0 0 0;
+        margin: -390px 0 0 45px;
+        font-weight: bold;
+    }
+
+    .whychoose .wctextgoal {
+        color: white;
+        font-family: 'Mitr', sans-serif;
+        font-size: 24px;
+        font-weight: bold;
+        padding: 76px 0 40px 59px;
+    }
+
+    .whychoose div p {
+        color: white;
+        font-family: 'Mitr', sans-serif;
+        font-size: 14px;
+        padding: 16px 0 0 130px;
+        margin: -56px 0 30px 0;
+    }
+
+    .whychoose div .wctext {
+        margin: -59px 0 32px 0;
+        padding: 11px 0 0 130px;
+    }
+
+    .whychoose .wcimg {
+        width: 460px;
+        height: 275px;
+        padding: 170px 0 0 485px;
+        position: absolute;
+    }
+
+
+    .whychoose {
+        width: auto;
+        height: 590px;
+        display: block;
+        background: black;
+        margin: 84px 0 0 0;
+    }
+
+    .offer h1 {
+        font-size: 24px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        margin: 85px 0 50px 440px;
+    }
+
+    .offer .offercaseone .caseonegoaltext {
+        font-size: 20px;
+        padding: 0 0 20px 75px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    }
+
+    .offer .offercaseone .caseonegoaltextsecond {
+        font-size: 12px;
+        padding: 0 0 0 75px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    }
+
+    .offer .offercaseone .caseoneimg {
+        width: 470px;
+        height: 285px;
+        position: absolute;
+        padding: 0px 0px 0px 500px;
+        margin: -284px 0px 18px;
+    }
+
+    .offer .offercasetwo .casetwoimg {
+        position: absolute;
+        padding: 0 0 0 0;
+        width: 470px;
+        height: 285px;
+        margin: -315px 0 0 40px;
+    }
+
+
+    .offer .offercaseone {
+        margin: 0 0 10px 0;
+    }
+
+    .offer .offercasetwo .casetwotxtgoal {
+        font-size: 20px;
+        padding: 70px 0 0px 570px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        width: 340px;
+    }
+
+    .offer .offercasetwo .casetwotxt {
+        font-size: 12px;
+        padding: 20px 0 0 568px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    }
+
+    .offer .offercasetwo {
+        margin: 30px 0 180px 0;
+    }
+
+    .offer .offercasetwo .casetwoimg {
+        position: absolute;
+        padding: 0 0 0 0;
+        width: 470px;
+        height: 285px;
+        margin: -260px 0 0 40px;
+    }
+
+    .offer .offercasetwo .offerbtncasetwo {
+        margin: 27px 0 0 569px;
+    }
+
+    .line {
+        width: 888px;
+        height: 3px;
+        background: black;
+        margin: 38px 0 55px 42px;
+    }
+
+    .forslider .forslidertxtgoal {
+        font-size: 24px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        margin: 0 0 60px 0;
+        text-align: center;
+    }
+
+
+    .slideshow-container .mySlides img {
+        height: 530px;
+        width: 800px;
+    }
+
+    .slideshow-container {
+        height: 530px;
+        width: 800px;
+        position: relative;
+        margin: 0 0 0 80px;
+    }
+
+    .prev, .next {
+        cursor: pointer;
+        position: absolute;
+        top: 45%;
+        width: auto;
+        margin-top: -22px;
+        padding: 16px;
+        color: white;
+        font-weight: bold;
+        font-size: 64px;
+        transition: 0.6s ease;
+        border-radius: 0 3px 3px 0;
+        user-select: none;
+    }
+
+    .forslider .sliderbutton {
+        width: 308px;
+        height: 74px;
+        border: 3px solid black;
+        margin: 115px 0 40px 350px;
+        background-color: white;
+        font-size: 24px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    }
+
+    .uniquecolor .uniquetxtgoal {
+        font-size: 24px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        text-align: center;
+        margin-bottom: 15px;
+    }
+
+    .uniquecolor .uniquetxt {
+        font-size: 14px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+    .marquee-item img {
+        display: block;
+        width: auto;
+        height: 350px;
+    }
+
+    .uniquecolor .uniquebutton {
+        width: 308px;
+        height: 80px;
+        border: 3px solid black;
+        margin: 75px 0 50px 361px;
+        background-color: white;
+        font-size: 24px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        padding: 0 0 2px 0;
+    }
+
+    .bodyrepair .bodyrepairtextgoal {
+        font-size: 24px;
+        text-align: center;
+        font-family: 'Mitr', sans-serif;
+        margin-bottom: 15px;
+    }
+
+    .bodyrepair .bodyrepairtext {
+        font-size: 14px;
+        text-align: left;
+        font-family: 'Mitr', sans-serif;
+        margin: 0 0 60px 90px;
+        width: 800px;
+    }
+
+    .bodyrepair .bodyrepairtextgoal2 {
+        font-size: 18px;
+        text-align: center;
+        font-family: 'Mitr', sans-serif;
+        margin-bottom: 50px;
+        margin: 0 0 30px 5px;
+    }
+
+    .bodyrepair .repaircases div p {
+        font-size: 14px;
+        font-family: 'Mitr', sans-serif;
+        padding: 0 0 0 24px;
+    }
+
+    .bodyrepair .repaircases div p {
+        font-size: 14px;
+        font-family: 'Mitr', sans-serif;
+        padding: 4px 0 0 24px;
+    }
+
+    .bodyrepair .repairimg {
+        width: 470px;
+        height: 285px;
+        position: absolute;
+        margin: -398px 0 0px 480px;
+    }
+
+
+    .map .mapgoaltxt {
+        font-size: 24px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        text-align: center;
+        margin-bottom: 24px;
+    }
+
+    .map .mapcart iframe {
+        width: 800px;
+        height: 450px;
+        border: 0;
+        margin: 0 0 0 85px;
+    }
+
+    footer .footerfirstcase {
+        font-size: 18px;
+        font-weight: bold;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        padding: 0 0 0 37px;
+    }
+
+    footer .footersecondcase {
+        font-size: 18px;
+        font-weight: bold;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        padding: 0 0 0 380px;
+        margin: -139px 0 40px 0;
+    }    
+    
+
+    footer .footerfirstcase p {
+    font-size: 12px;
+    color: black;
+    font-family: 'Mitr', sans-serif;
+}
+
+footer .footerfirstcase {
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    font-family: 'Mitr', sans-serif;
+    padding: 0 0 0 44px;
+    margin: -28px 0 0 0;
+}
+
+footer .footersecondcase {
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    font-family: 'Mitr', sans-serif;
+    padding: 0 0 0 380px;
+    margin: -102px 0 40px -72px;
+}
+
+footer .footersecondcase .imgwrapperfooter img {
+    width: 40px;
+    height: 40px;
+    padding: 0 0 0 5px;
+}
+
+footer .footerimg {
+    width: 415px;
+    height: 115px;
+    margin: -156px 0 0 516px;
+    position: absolute;
+}
+
+.forslider .sliderbutton {
+    width: 308px;
+    height: 74px;
+    border: 3px solid black;
+    margin: 115px 0 40px 340px;
+    background-color: white;
+    font-size: 24px;
+    color: black;
+    font-family: 'Mitr', sans-serif;
+}
+}
+
+
+@media(max-width:768px){
+    .secondscr .secscttxt {
+        font-size: 52px;
+        color: white;
+        font-family: 'Mitr', sans-serif;
+        padding: -1px 0 0 0;
+        margin: -332px 0 0 32px;
+        font-weight: bold;
+    }
+
+    .header .logo {
+        font-size: 22px;
+        font-family: 'Monoton', cursive;
+        width: 250px;
+        text-align: center;
+        color: white;
+    }
+
+    .header .navigation {
+        margin: -53px 0 0 216px;
+    }
+
+    .header .navigation a {
+        text-decoration: none;
+        font-size: 16px;
+        color: white;
+        font-family: 'Mitr', sans-serif;
+        padding: 0 0 0 35px;
+    }
+
+    .header .linksimg {
+        margin: -25px 0 0 566px;
+    }
+
+    .header .linksimg a {
+        padding: 0 0 0 5px;
+    }
+
+    .header .navigation {
+        margin: -49px 0 0 220px;
+    }
+
+    .whychoose .wcimg {
+        display: none;
+    }
+
+    .offer h1 {
+        font-size: 24px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        margin: 85px 0 50px 330px;
+    }
+
+    .offer .offercaseone .caseonegoaltext {
+        font-size: 20px;
+        padding: 0 0 20px 25px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    }
+
+    .offer .offercaseone .caseonegoaltextsecond {
+        font-size: 12px;
+        padding: 0 0 0 25px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    }
+
+    .offer .offercaseone .offerbtn {
+        width: 308px;
+        height: 74px;
+        border: 3px solid black;
+        margin: 27px 0 0 25px;
+        background-color: white;
+        font-size: 24px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        z-index: 1;
+        position: relative;
+    }
+
+    .offer .offercaseone .caseoneimg {
+        width: 328px;
+        height: 200px;
+        position: absolute;
+        padding: 0px 0px 0px 429px;
+        margin: -284px 0px 18px;
+    }
+
+    .offer .offercaseone .offerbtn {
+        width: 280px;
+        height: 58px;
+        border: 3px solid black;
+        margin: 27px 0 0 25px;
+        background-color: white;
+        font-size: 20px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        z-index: 1;
+        position: relative;
+    }
+
+    .offer .offercasetwo .casetwoimg {
+        position: absolute;
+        padding: 0 0 0 0;
+        width: 328px;
+        height: 200px;
+        margin: -290px 0 0 25px;
+    }
+
+    .offer .offercasetwo .casetwotxtgoal {
+        font-size: 20px;
+        padding: 70px 0 0px 400px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        width: 140px;
+    }
+
+    .offer .offercasetwo .casetwotxt {
+        font-size: 12px;
+        padding: 20px 0 0 398px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    }
+
+    .offer .offercasetwo .casetwoimg {
+        position: absolute;
+        padding: 0 0 0 0;
+        width: 328px;
+        height: 200px;
+        margin: -225px 0 0 25px;
+    }
+
+    .offer .offercasetwo .casetwotxtgoal {
+        font-size: 20px;
+        padding: 50px 0 0px 400px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        width: 140px;
+    }
+
+    .offer .offercasetwo .offerbtncasetwo {
+        margin: 27px 0 0 400px;
+        width: 280px;
+        height: 58px;
+        font-size: 20px;
+    }
+
+    .offer .offercasetwo {
+        margin: 30px 0 115px 0;
+    }
+
+    .offer .offercasetwo .casetwotxtgoal {
+        font-size: 20px;
+        padding: 50px 0 0px 400px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        width: 280px;
+    }
+
+    .line {
+        width: 700px;
+        height: 3px;
+        background: black;
+        margin: 38px 0 55px 42px;
+    }
+
+    .slideshow-container {
+        height: 430px;
+        width: 600px;
+        position: relative;
+        margin: 0 0 0 80px;
+    }
+
+    .slideshow-container .mySlides img {
+        height: 430px;
+        width: 600px;
+    }
+
+    .prev, .next {
+        font-size: 44px;
+    }
+
+    .slideshow-container {
+        height: 430px;
+        width: 600px;
+        position: relative;
+        margin: 0 0 0 105px;
+    }
+
+    .forslider .sliderbutton {
+        width: 280px;
+        height: 58px;
+        border: 3px solid black;
+        margin: 115px 0 40px 340px;
+        background-color: white;
+        font-size: 20px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    }
+
+    .forslider .sliderbutton {
+        width: 280px;
+        height: 58px;
+        border: 3px solid black;
+        margin: 115px 0 40px 250px;
+        background-color: white;
+        font-size: 20px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    }
+
+    .marquee-item img {
+        display: block;
+        width: auto;
+        height: 280px;
+    }
+
+    
+
+.uniquecolor .uniquebutton {
+    width: 280px;
+    height: 64px;
+    border: 3px solid black;
+    margin: 75px 0 50px 250px;
+    background-color: white;
+    font-size: 20px;
+    color: black;
+    font-family: 'Mitr', sans-serif;
+    padding: 0 0 2px 0;
+}
+.bodyrepair .bodyrepairtext {
+    font-size: 14px;
+    text-align: left;
+    font-family: 'Mitr', sans-serif;
+    margin: 0 0 60px 124px;
+    width: 555px;
+}
+
+.bodyrepair .repaircases div {
+    display: flex;
+    padding: 25px 0 0 25px;
+}
+
+.bodyrepair .repairimg {
+    width: 350px;
+    height: 215px;
+    position: absolute;
+    margin: -369px 0 0px 390px;
+}
+
+.bodyrepair .repairbutton {
+    width: 280px;
+    height: 58px;
+    border: 3px solid black;
+    margin: 31px 0 0px 86px;
+    background-color: white;
+    font-size: 20px;
+    color: black;
+    font-family: 'Mitr', sans-serif;
+}
+
+.map .mapcart iframe {
+    width: 650px;
+    height: 400px;
+    border: 0;
+    margin: 0 0 0 63px;
+}
+
+footer .footerimg {
+    display: none;
+}
+
+footer .footersecondcase {
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    font-family: 'Mitr', sans-serif;
+    padding: 0 0 0 380px;
+    margin: -104px 0 40px 87px;
+}
+
+footer .footerfirstcase {
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    font-family: 'Mitr', sans-serif;
+    padding: 7px 0 0 160px;
+    margin: -28px 0 0 0;
+}
+
+.slideshow-container {
+    height: 430px;
+    width: 600px;
+    position: relative;
+    margin: 0 0 0 85px;
+}
+
+.forslider .sliderbutton {
+    width: 280px;
+    height: 58px;
+    border: 3px solid black;
+    margin: 70px 0 40px 240px;
+    background-color: white;
+    font-size: 20px;
+    color: black;
+    font-family: 'Mitr', sans-serif;
+}
+
+.slideshow-container .mySlides img {
+    height: 410px;
+    width: 600px;
+}
+
+.secondscr .secscttxt {
+    font-size: 52px;
+    color: white;
+    font-family: 'Mitr', sans-serif;
+    padding: -1px 0 0 0;
+    margin: -310px 0 0 32px;
+    font-weight: bold;
+}
+
+.whychoose {
+    width: auto;
+    height: 590px;
+    display: block;
+    background: black;
+    margin: 61px 0 0 0;
+}
+}
+
+@media(max-width:576px){
+    .secondscr .secscttxt {
+        font-size: 40px;
+        color: white;
+        font-family: 'Mitr', sans-serif;
+        padding: -1px 0 0 0;
+        margin: -240px 0 0 32px;
+        font-weight: bold;
+    }
+
+    .whychoose {
+        width: auto;
+        height: 590px;
+        display: block;
+        background: black;
+        margin: 45px 0 0 0;
+    }
+ 
+    .header .linksimg a img {
+        width: 30px;
+        height: 30px;
+    }
+
+    .header .linksimg {
+        margin: -61px 0 0 310px;
+    }
+
+    .header .linksimg a {
+        padding: 0 0 0 25px;
+    }
+
+    .header .navigation {
+        margin: -13px 0 0 220px;
+    }
+
+    .header .linksimg {
+        margin: -75px 0 0 270px;
+    }
+
+    .offer .offercaseone .caseonegoaltextsecond {
+        font-size: 12px;
+        padding: 0 0 0 25px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        width: 219px;
+        height: 240px;
+    }
+
+    .offer .offercaseone .caseoneimg {
+        width: 280px;
+        height: 170px;
+        position: absolute;
+        padding: 0px 0px 0px 280px;
+        margin: -284px 0px 18px;
+    }
+
+    .offer h1 {
+        font-size: 24px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        margin: 50px 0 50px 230px;
+    }
+
+    .offer .offercaseone .caseoneimg {
+        width: 328px;
+        height: 170px;
+        position: absolute;
+        padding: 0px 0px 0px 280px;
+        margin: 30px 0px 0px -90px;
+    }
+
+    .offer .offercaseone {
+        margin: 0 0 240px 0;
+    }
+
+    .offer .offercaseone .caseoneimg {
+        width: 390px;
+        height: 228px;
+        position: absolute;
+        padding: 0px 0px 0px 188px;
+        margin: 30px 0px 0px -90px;
+    }
+
+    .offer .offercaseone .caseonegoaltextsecond {
+        font-size: 12px;
+        padding: 0 0 0 25px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        width: 394px;
+        height: 120px;
+    }
+
+    .offer .offercaseone .caseonegoaltext {
+        font-size: 20px;
+        padding: 0 0 20px 190px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    }
+
+    .offer .offercaseone .caseonegoaltextsecond {
+        font-size: 12px;
+        padding: 0 0 0 111px;
+        font-family: 'Mitr', sans-serif;
+        width: 417px;
+        height: 120px;
+    }
+
+    .offer .offercaseone .offerbtn {
+        width: 280px;
+        height: 58px;
+        border: 3px solid black;
+        margin: 27px 0 0 154px;
+        background-color: white;
+        font-size: 20px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        z-index: 1;
+        position: relative;
+    }
+
+    .offer .offercasetwo {
+        margin: 30px 0 280px 0;
+    }
+
+    .offer .offercasetwo .casetwoimg {
+        position: absolute;
+        padding: 0 0 0 0;
+        width: 390px;
+        height: 228px;
+        margin: -105px 0 0 96px;
+    }
+
+    .offer .offercasetwo .casetwotxt {
+        font-size: 12px;
+        padding: 20px 0 0 398px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        width: 417px;
+    }
+
+    .offer .offercasetwo .casetwotxtgoal {
+        font-size: 20px;
+        padding: 73px 0 0px 225px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        width: 280px;
+    }
+
+
+    .offer .offercasetwo .casetwoimg {
+        position: absolute;
+        padding: 0 0 0 0;
+        width: 390px;
+        height: 228px;
+        margin: 30px 0 0 96px;
+    }
+
+    .offer .offercasetwo .casetwotxt {
+        font-size: 12px;
+        padding: 20px 0 0 90px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        width: 417px;
+    }
+
+    .offer .offercasetwo .offerbtncasetwo {
+        margin: 27px 0 0 154px;
+        width: 280px;
+        height: 58px;
+        font-size: 20px;
+    }
+
+    .offer .offercaseone .caseonegoaltext {
+        font-size: 20px;
+        padding: 0 0 20px 228px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    }
+
+    .offer .offercasetwo {
+        margin: 30px 0 300px 0;
+    }
+
+    .offer .offercasetwo .casesecond {
+        font-size: 20px;
+        padding: 73px 0 0px 225px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        width: 398px;
+    }
+
+    .offer .offercaseone .casefirst{
+        font-size: 20px;
+        padding: 0 0 20px 198px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    } 
+
+    .offer .offercasetwo .casetwotxtgoal {
+        font-size: 20px;
+        padding: 73px 0 0px 95px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        width: 398px;
+    }
+
+    .offer .offercasetwo .casetwotxtgoal {
+        font-size: 20px;
+        padding: 73px 0 0px 95px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        width: 398px;
+    }
+
+    .offer .offercasetwo .offercasetxt {
+        font-size: 20px;
+        padding: 73px 0 0px 225px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        width: 398px;
+    }
+
+    .line {
+        width: 500px;
+        height: 3px;
+        background: black;
+        margin: 38px 0 55px 35px;
+    }
+
+    .slideshow-container .mySlides img {
+        height: 360px;
+        width: 500px;
+    }
+
+    .slideshow-container {
+        height: 360px;
+        width: 500px;
+        position: relative;
+        margin: 0 0 0 41px;
+    }
+
+    .forslider .sliderbutton {
+        width: 280px;
+        height: 58px;
+        border: 3px solid black;
+        margin: 60px 0 30px 152px;
+        background-color: white;
+        font-size: 20px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    }
+
+    .uniquecolor .uniquetxt {
+        font-size: 14px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        text-align: center;
+        margin: 0 0 30px 41px;
+        width: 495px;
+    }
+
+    .uniquecolor .uniquebutton {
+        width: 280px;
+        height: 64px;
+        border: 3px solid black;
+        margin: 75px 0 50px 158px;
+        background-color: white;
+        font-size: 20px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        padding: 0 0 2px 0;
+    }
+
+    .bodyrepair .bodyrepairtextgoal {
+        font-size: 24px;
+        text-align: center;
+        font-family: 'Mitr', sans-serif;
+        margin: 0 0 15px 0px;
+    }
+
+    .bodyrepair .bodyrepairtext {
+        font-size: 14px;
+        text-align: left;
+        font-family: 'Mitr', sans-serif;
+        margin: 0 0 60px 44px;
+        width: 499px;
+    }
+
+    .bodyrepair .repairimg {
+        display: none;
+    }
+
+    .bodyrepair .repaircases{
+        margin: 0 0 0 90px;
+    }
+
+    .bodyrepair .repairbutton {
+        width: 280px;
+        height: 58px;
+        border: 3px solid black;
+        margin: 31px 0 0px 173px;
+        background-color: white;
+        font-size: 20px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    }
+
+    .map .mapcart iframe {
+        width: 500px;
+        height: 350px;
+        border: 0;
+        margin: 0 0 0 36px;
+    }
+
+    footer .footerfirstcase {
+        font-size: 18px;
+        font-weight: bold;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        padding: 7px 0 0 50px;
+        margin: -28px 0 0 0;
+    }
+
+    footer .footersecondcase {
+        font-size: 18px;
+        font-weight: bold;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        padding: 0 0 0 380px;
+        margin: -104px 0 30px -60px;
+        width: 192px;
+    }
+
+    .offer .offercasetwo .offercasetxt {
+        font-size: 20px;
+        padding: 73px 0 0px 225px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        width: 334px;
+    }
+}
+
+
+@media(max-width:528px){
+    .header .navigation {
+        margin: -13px 0 0 194px;
+    }
+    
+    .header .linksimg {
+        margin: -75px 0 0 250px;
+    }
+
+    .header .logo {
+        font-size: 20px;
+        font-family: 'Monoton', cursive;
+        width: 218px;
+        text-align: center;
+        color: white;
+    }
+
+    .secondscr .secscttxt {
+        font-size: 40px;
+        color: white;
+        font-family: 'Mitr', sans-serif;
+        padding: -1px 0 0 0;
+        margin: -214px 0 0 32px;
+        font-weight: bold;
+    }
+
+    .whychoose {
+        width: auto;
+        height: 590px;
+        display: block;
+        background: black;
+        margin: 19px 0 0 0;
+    }
+
+    .whychoose .wctextgoal {
+        color: white;
+        font-family: 'Mitr', sans-serif;
+        font-size: 24px;
+        font-weight: bold;
+        padding: 52px 0 40px 59px;
+    }
+
+    .whychoose {
+        width: auto;
+        height: 570px;
+        display: block;
+        background: black;
+        margin: 19px 0 0 0;
+    }
+
+    .offer h1 {
+        font-size: 24px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        margin: 50px 0 50px 197px;
+    }
+
+    .offer .offercaseone .casefirst {
+        font-size: 20px;
+        padding: 0 0 20px 156px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    }
+
+
+    .offer .offercaseone .caseonegoaltextsecond {
+        font-size: 12px;
+        padding: 0 0 0 84px;
+        font-family: 'Mitr', sans-serif;
+        width: 417px;
+        height: 120px;
+    }
+
+    .offer h1 {
+        font-size: 24px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        margin: 50px 0 30px 193px;
+    }
+
+    .offer .offercaseone .offerbtn {
+        width: 280px;
+        height: 58px;
+        border: 3px solid black;
+        margin: 27px 0 0 122px;
+        background-color: white;
+        font-size: 20px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        z-index: 1;
+        position: relative;
+    }
+
+    .offer .offercaseone .caseoneimg {
+        width: 390px;
+        height: 228px;
+        position: absolute;
+        padding: 0px 0px 0px 163px;
+        margin: 30px 0px 0px -90px;
+    }
+
+    .offer .offercasetwo .offercasetxt {
+        font-size: 20px;
+        padding: 73px 0 0px 201px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        width: 334px;
+    }
+
+    .offer .offercasetwo .casetwotxt {
+        font-size: 12px;
+        padding: 20px 0 0 68px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        width: 417px;
+    }
+
+
+    .offer .offercasetwo .offerbtncasetwo {
+        margin: 27px 0 0 123px;
+        width: 280px;
+        height: 58px;
+        font-size: 20px;
+    }
+
+    .offer .offercasetwo .casetwoimg {
+        position: absolute;
+        padding: 0 0 0 0;
+        width: 390px;
+        height: 228px;
+        margin: 30px 0 0 71px;
+    }
+
+    .offer .offercaseone .caseonegoaltext {
+        font-size: 20px;
+        padding: 0 0 20px 197px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    }
+
+    .offer .offercaseone .caseonegoaltextsecond {
+        font-size: 12px;
+        padding: 0 0 0 70px;
+        font-family: 'Mitr', sans-serif;
+        width: 417px;
+        height: 120px;
+    }
+
+
+    .offer .offercasetwo .casetwotxtgoal {
+        font-size: 20px;
+        padding: 73px 0 0px 73px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        width: 398px;
+    }
+
+    .line {
+        width: 450px;
+        height: 3px;
+        background: black;
+        margin: 38px 0 55px 40px;
+    }
+
+    .slideshow-container {
+        height: 331px;
+        width: 483px;
+        position: relative;
+        margin: 0 0 0 20px;
+    }
+
+    .slideshow-container .mySlides img {
+        height: 331px;
+        width: 483px;
+    }
+
+    .forslider .sliderbutton {
+        width: 280px;
+        height: 58px;
+        border: 3px solid black;
+        margin: 60px 0 30px 125px;
+        background-color: white;
+        font-size: 20px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    }
+
+    .uniquecolor .uniquetxt {
+        font-size: 14px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        text-align: center;
+        margin: 0 0 30px 34px;
+        width: 460px;
+    }
+
+    .uniquecolor .uniquebutton {
+        width: 280px;
+        height: 64px;
+        border: 3px solid black;
+        margin: 75px 0 50px 133px;
+        background-color: white;
+        font-size: 20px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        padding: 0 0 2px 0;
+    }
+
+    .bodyrepair .bodyrepairtext {
+        font-size: 14px;
+        text-align: left;
+        font-family: 'Mitr', sans-serif;
+        margin: 0 0 60px 42px;
+        width: 459px;
+    }
+
+    .bodyrepair .bodyrepairtextgoal2 {
+        font-size: 18px;
+        text-align: center;
+        font-family: 'Mitr', sans-serif;
+        margin-bottom: 50px;
+        margin: 0 0 30px -2px;
+    }
+
+    .bodyrepair .repaircases {
+        margin: 0 0 0 55px;
+    }
+
+    .bodyrepair .repairbutton {
+        width: 280px;
+        height: 58px;
+        border: 3px solid black;
+        margin: 31px 0 0px 143px;
+        background-color: white;
+        font-size: 20px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    }
+
+    .map .mapcart iframe {
+        width: 450px;
+        height: 330px;
+        border: 0;
+        margin: 0 0 0px 39px;
+    }
+
+    footer .footersecondcase {
+        font-size: 18px;
+        font-weight: bold;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        padding: 0 0 0 380px;
+        margin: -104px 0 30px -85px;
+        width: 192px;
+    }
+}
+    @media(max-width:425px){
+        .secondscr .secscttxt {
+            font-size: 28px;
+            color: white;
+            font-family: 'Mitr', sans-serif;
+            padding: -1px 0 0 0;
+            margin: -173px 0 0 22px;
+            font-weight: bold;
+        }
+
+        .header .linksimg a img {
+            width: 20px;
+            height: 20px;
+        }
+
+        .header .linksimg a {
+            padding: 0 0 0 15px;
+        }
+
+        .header .linksimg {
+            margin: -64px 0 0 238px;
+        }
+
+        .header .navigation a {
+            text-decoration: none;
+            font-size: 12px;
+            color: white;
+            font-family: 'Mitr', sans-serif;
+            padding: 0 0 0 15px;
+        }
+
+        .header .navigation {
+            margin: -26px 0 0 194px;
+        }
+
+        .header .linksimg {
+            margin: -52px 0 0 224px;
+        }
+
+        .header {
+            width: auto;
+            height: 90px;
+            padding: 25px 0 0 0;
+        }
+
+        .whychoose .wctextgoal {
+            color: white;
+            font-family: 'Mitr', sans-serif;
+            font-size: 20px;
+            font-weight: bold;
+            padding: 52px 0 40px 25px;
+        }
+
+        .whychoose div img {
+            width: 40px;
+            height: 40px;
+            padding: 0 0 0 20px;
+        }
+
+        .whychoose div .pwc {
+            padding: 18px 0 0 20px;
+        }
+
+        .whychoose div p {
+            color: white;
+            font-family: 'Mitr', sans-serif;
+            font-size: 12px;
+            padding: 20px 0 0 85px;
+            margin: -56px 0 30px 0;
+        }
+
+        .whychoose div .wctext {
+            margin: -59px 0 18px 0;
+            padding: 17px 0 0 86px;
+        }
+
+        .whychoose div p {
+            color: white;
+            font-family: 'Mitr', sans-serif;
+            font-size: 12px;
+            padding: 20px 0 0 85px;
+            margin: -56px 0 12px 0;
+        }
+
+        .whychoose {
+            width: auto;
+            height: 450px;
+            display: block;
+            background: black;
+            margin: 19px 0 0 0;
+        }
+
+        .offer h1 {
+            font-size: 16px;
+            color: black;
+            font-family: 'Mitr', sans-serif;
+            margin: 40px 0 20px 178px;
+        }
+
+        .offer .offercaseone .caseonegoaltext {
+            font-size: 14px;
+            padding: 0 0 15px 155px;
+            color: black;
+            font-family: 'Mitr', sans-serif;
+        }
+
+        .offer .offercaseone .caseonegoaltextsecond {
+            font-size: 10px;
+            padding: 0 0 0 84px;
+            font-family: 'Mitr', sans-serif;
+            width: 321px;
+            height: 110px;
+        }
+
+        .offer .offercaseone .offerbtn {
+            width: 220px;
+            height: 40px;
+            border: 3px solid black;
+            margin: 20px 0 0 119px;
+            background-color: white;
+            font-size: 16px;
+            color: black;
+            font-family: 'Mitr', sans-serif;
+            z-index: 1;
+            position: relative;
+        }
+
+        .offer h1 {
+            font-size: 16px;
+            color: black;
+            font-family: 'Mitr', sans-serif;
+            margin: 40px 0 20px 162px;
+        }
+
+        .offer .offercaseone .caseonegoaltext {
+            font-size: 14px;
+            padding: 0 0 15px 137px;
+            color: black;
+            font-family: 'Mitr', sans-serif;
+        }
+
+        .offer .offercaseone .caseonegoaltextsecond {
+            font-size: 10px;
+            padding: 0 0 0 66px;
+            font-family: 'Mitr', sans-serif;
+            width: 321px;
+            height: 110px;
+        }
+
+        .offer .offercaseone .offerbtn {
+            width: 220px;
+            height: 40px;
+            border: 3px solid black;
+            margin: 20px 0 0 103px;
+            background-color: white;
+            font-size: 14px;
+            color: black;
+            font-family: 'Mitr', sans-serif;
+            z-index: 1;
+            position: relative;
+        }
+
+        .offer .offercaseone .caseoneimg {
+            width: 320px;
+            height: 178px;
+            position: absolute;
+            padding: 0px 0px 0px 150px;
+            margin: 30px 0px 0px -90px;
+        }
+
+        .offer .offercaseone {
+            margin: 0 0 185px 0;
+        }
+
+        .offer .offercasetwo .offercasetxt {
+            font-size: 14px;
+            padding: 73px 0 0px 171px;
+            color: black;
+            font-family: 'Mitr', sans-serif;
+            width: 97px;
+        }
+
+
+        .offer .offercasetwo .casetwotxt {
+            font-size: 10px;
+            padding: 15px 0 0 66px;
+            color: black;
+            font-family: 'Mitr', sans-serif;
+            width: 328px;
+        }
+
+        .offer .offercasetwo .offerbtncasetwo {
+            margin: 27px 0 0 123px;
+            width: 220px;
+            height: 40px;
+            font-size: 14px;
+        }
+
+        .offer .offercasetwo .offerbtncasetwo {
+            margin: 27px 0 0 109px;
+            width: 220px;
+            height: 40px;
+            font-size: 14px;
+        }
+
+        .offer .offercaseone .caseonegoaltext {
+            font-size: 14px;
+            padding: 0 0 15px 174px;
+            color: black;
+            font-family: 'Mitr', sans-serif;
+        }
+
+
+        .offer .offercaseone .caseonegoaltextsecond {
+            font-size: 10px;
+            padding: 0 0 0 66px;
+            font-family: 'Mitr', sans-serif;
+            width: 322px;
+            height: 110px;
+        }
+
+        .offer .offercasetwo .casetwoimg {
+            position: absolute;
+            padding: 0 0 0 0;
+            width: 320px;
+            height: 178px;
+            margin: 30px 0 0 71px;
+        }
+
+        .offer .offercasetwo {
+            margin: 30px 0 254px 0;
+        }
+
+
+        .offer .offercasetwo .casetwoimg {
+            position: absolute;
+            padding: 0 0 0 0;
+            width: 320px;
+            height: 178px;
+            margin: 30px 0 0 59px;
+        }
+
+        .offer .offercasetwo .casetwotxtgoal {
+            font-size: 14px;
+            padding: 73px 0 0px 73px;
+            color: black;
+            font-family: 'Mitr', sans-serif;
+            width: 305px;
+        }
+
+        .line {
+            width: 350px;
+            height: 3px;
+            background: black;
+            margin: 38px 0 38px 38px;
+        }
+
+        .forslider .forslidertxtgoal {
+            font-size: 16px;
+            color: black;
+            font-family: 'Mitr', sans-serif;
+            margin: 0 0 35px 0;
+            text-align: center;
+        }
+
+        .slideshow-container .mySlides img {
+            height: 277px;
+            width: 392px;
+        }
+
+        .slideshow-container {
+            height: 277px;
+            width: 392px;
+            position: relative;
+            margin: 0 0 0 15px;
+        }
+
+        .prev, .next {
+            cursor: pointer;
+            position: absolute;
+            top: 45%;
+            width: auto;
+            margin-top: -22px;
+            padding: 7px;
+            color: white;
+            font-weight: bold;
+            font-size: 44px;
+            transition: 0.6s ease;
+            border-radius: 0 3px 3px 0;
+            user-select: none;
+        }
+
+        .forslider .sliderbutton {
+            width: 220px;
+            height: 40px;
+            border: 3px solid black;
+            margin: 60px 0 30px 125px;
+            background-color: white;
+            font-size: 14px;
+            color: black;
+            font-family: 'Mitr', sans-serif;
+        }
+        
+        .forslider .sliderbutton {
+            width: 220px;
+            height: 40px;
+             border: 3px solid black;
+              margin: 40px 0 0px 105px;
+             background-color: white;
+             font-size: 14px;
+            color: black;
+             font-family: 'Mitr', sans-serif;
+            }
+
+            .uniquecolor .uniquetxtgoal {
+                font-size: 16px;
+                color: black;
+                font-family: 'Mitr', sans-serif;
+                text-align: center;
+                margin-bottom: 15px;
+            }
+
+            .uniquecolor .uniquetxt {
+                font-size: 12px;
+                color: black;
+                font-family: 'Mitr', sans-serif;
+                text-align: center;
+                margin: 0 0 25px 30px;
+                width: 360px;
+            }
+
+            .marquee-item img {
+                display: block;
+                width: auto;
+                height: 255px;
+            }
+
+            .uniquecolor .uniquebutton {
+                width: 220px;
+                height: 40px;
+                border: 3px solid black;
+                margin: 75px 0 50px 133px;
+                background-color: white;
+                font-size: 14px;
+                color: black;
+                font-family: 'Mitr', sans-serif;
+                padding: 0 0 2px 0;
+            }
+
+
+            .uniquecolor .uniquebutton {
+                width: 220px;
+                height: 40px;
+                border: 3px solid black;
+                margin: 39px 0 0px 108px;
+                background-color: white;
+                font-size: 14px;
+                color: black;
+                font-family: 'Mitr', sans-serif;
+                padding: 0 0 2px 0;
+            }
+
+            .bodyrepair .bodyrepairtextgoal {
+                font-size: 16px;
+                text-align: center;
+                font-family: 'Mitr', sans-serif;
+                margin: 0 0 15px 0px;
+            }
+
+            .bodyrepair .bodyrepairtext {
+                font-size: 10px;
+                text-align: left;
+                font-family: 'Mitr', sans-serif;
+                margin: 0 0 30px 44px;
+                width: 344px;
+            }
+
+            .bodyrepair .bodyrepairtextgoal2 {
+                font-size: 14px;
+                text-align: center;
+                font-family: 'Mitr', sans-serif;
+                margin-bottom: 50px;
+                margin: 0 0 30px 0px;
+            }
+
+            .bodyrepair .repaircases {
+                margin: 0 0 0 18px;
+            }
+
+            .bodyrepair .bodyrepairtextgoal2 {
+                font-size: 14px;
+                text-align: center;
+                font-family: 'Mitr', sans-serif;
+                margin-bottom: 50px;
+                margin: 0 0 10px 0px;
+            }
+
+            .bodyrepair .repairbutton {
+                width: 220px;
+                height: 40px;
+                border: 3px solid black;
+                margin: 31px 0 0px 143px;
+                background-color: white;
+                font-size: 14px;
+                color: black;
+                font-family: 'Mitr', sans-serif;
+            }
+
+            .bodyrepair .repairbutton {
+                width: 220px;
+                height: 40px;
+                border: 3px solid black;
+                margin: 31px 0 0px 107px;
+                background-color: white;
+                font-size: 14px;
+                color: black;
+                font-family: 'Mitr', sans-serif;
+            }
+
+            .map .mapgoaltxt {
+                font-size: 16px;
+                color: black;
+                font-family: 'Mitr', sans-serif;
+                text-align: center;
+                margin-bottom: 24px;
+            }
+
+            .map .mapcart iframe {
+                width: 359px;
+                height: 250px;
+                border: 0;
+                margin: 0 0 0px 34px;
+            }
+
+            .map {
+                margin: 0 0 54px 0;
+            }
+
+            footer .footerfirstcase {
+                font-size: 16px;
+                font-weight: bold;
+                color: black;
+                font-family: 'Mitr', sans-serif;
+                padding: 7px 0 0 40px;
+                margin: -28px 0 0 0;
+            }
+
+            footer .footerfirstcase p {
+                font-size: 10px;
+                color: black;
+                font-family: 'Mitr', sans-serif;
+            }
+
+            footer .footersecondcase {
+                font-size: 16px;
+                font-weight: bold;
+                color: black;
+                font-family: 'Mitr', sans-serif;
+                padding: 0 0 0 380px;
+                margin: -87px 0 30px -140px;
+                width: 166px;
+            }
+
+            footer .footersecondcase p {
+                font-size: 10px;
+                color: black;
+                font-family: 'Mitr', sans-serif;
+            }
+
+           
+
+            footer .footersecondcase .imgwrapperfooter img {
+                width: 30px;
+                height: 30px;
+                padding: 0 0 0 5px;
+            }
+
+            .offer .offercaseone .casefirst {
+                font-size: 14px;
+                padding: 0 0 15px 132px;
+                color: black;
+                font-family: 'Mitr', sans-serif;
+            }
+
+
+           .offer .offercasetwo .offercasetxt {
+                font-size: 14px;
+                padding: 73px 0 0px 172px;
+                color: black;
+                font-family: 'Mitr', sans-serif;
+                width: 305px;
+            }
+    }
+    @media(max-width:404px){
+        .secondscr .secscttxt {
+            font-size: 28px;
+            color: white;
+            font-family: 'Mitr', sans-serif;
+            padding: -1px 0 0 0;
+            margin: -162px 0 0 22px;
+            font-weight: bold;
+        }
+
+        .header .navigation a {
+            text-decoration: none;
+            font-size: 12px;
+            color: white;
+            font-family: 'Mitr', sans-serif;
+            padding: 0 0 0 10px;
+        }
+
+
+        .header .linksimg {
+            margin: -52px 0 0 218px;
+        }
+
+        .whychoose .wctextgoal {
+            color: white;
+            font-family: 'Mitr', sans-serif;
+            font-size: 20px;
+            font-weight: bold;
+            padding: 40px 0 40px 25px;
+        }
+
+        .whychoose {
+            width: auto;
+            height: 430px;
+            display: block;
+            background: black;
+            margin: 19px 0 0 0;
+        }
+
+        .offer h1 {
+            font-size: 16px;
+            color: black;
+            font-family: 'Mitr', sans-serif;
+            margin: 40px 0 20px 140px;
+        }
+
+        .offer .offercaseone .casefirst {
+            font-size: 14px;
+            padding: 0 0 15px 114px;
+            color: black;
+            font-family: 'Mitr', sans-serif;
+        }
+
+        .offer .offercaseone .caseonegoaltextsecond {
+            font-size: 10px;
+            padding: 0 0 0 48px;
+            font-family: 'Mitr', sans-serif;
+            width: 322px;
+            height: 110px;
+        }
+
+        .offer .offercaseone .offerbtn {
+            width: 220px;
+            height: 40px;
+            border: 3px solid black;
+            margin: 20px 0 0 81px;
+            background-color: white;
+            font-size: 14px;
+            color: black;
+            font-family: 'Mitr', sans-serif;
+            z-index: 1;
+            position: relative;
+        }
+
+        
+
+    .offer .offercaseone .caseoneimg {
+        width: 320px;
+        height: 178px;
+        position: absolute;
+        padding: 0px 0px 0px 150px;
+        margin: 30px 0px 0px -103px;
+    }
+
+    .offer .offercaseone .caseoneimg {
+        width: 320px;
+        height: 178px;
+        position: absolute;
+        padding: 0px 0px 0px 150px;
+        margin: 30px 0px 0px -105px;
+    }
+
+    .offer .offercasetwo .offercasetxt {
+        font-size: 14px;
+        padding: 73px 0 0px 147px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        width: 97px;
+    }
+
+
+    .offer .offercasetwo .casetwotxt {
+        font-size: 10px;
+        padding: 15px 0 0 45px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        width: 320px;
+    }
+
+    .offer .offercasetwo .offerbtncasetwo {
+        margin: 27px 0 0 83px;
+        width: 220px;
+        height: 40px;
+        font-size: 14px;
+    }
+    
+
+
+    .offer .offercasetwo .offercasetxt {
+        font-size: 14px;
+        padding: 73px 0 0px 142px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        width: 97px;
+    }
+
+    .offer .offercasetwo .casetwoimg {
+        position: absolute;
+        padding: 0 0 0 0;
+        width: 320px;
+        height: 178px;
+        margin: 30px 0 0 45px;
+    }
+
+    .offer .offercaseone .caseonegoaltext {
+        font-size: 14px;
+        padding: 0 0 15px 145px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    }
+
+    .offer .offercaseone .caseonegoaltextsecond {
+        font-size: 10px;
+        padding: 0 0 0 45px;
+        font-family: 'Mitr', sans-serif;
+        width: 322px;
+        height: 110px;
+    }
+
+    .offer h1 {
+        font-size: 16px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        margin: 40px 0 20px 143px;
+    }
+
+    .offer .offercasetwo .casetwotxtgoal {
+        font-size: 14px;
+        padding: 73px 0 0px 63px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        width: 305px;
+    }
+
+
+    .slideshow-container .mySlides img {
+        height: 264px;
+        width: 375px;
+    }
+
+    .slideshow-container {
+        height: 264px;
+        width: 375px;
+        position: relative;
+        margin: 0 0 0 15px;
+    }
+
+    .forslider .sliderbutton {
+        width: 220px;
+        height: 40px;
+        border: 3px solid black;
+        margin: 40px 0 0px 91px;
+        background-color: white;
+        font-size: 14px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    }
+
+    .forslider .sliderbutton {
+        width: 220px;
+        height: 40px;
+        border: 3px solid black;
+        margin: 40px 0 0px 91px;
+        background-color: white;
+        font-size: 14px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    }
+
+    .line {
+        width: 350px;
+        height: 3px;
+        background: black;
+        margin: 38px 0 38px 27px;
+    }
+
+
+    .uniquecolor .uniquebutton {
+        width: 220px;
+        height: 40px;
+        border: 3px solid black;
+        margin: 39px 0 0px 93px;
+        background-color: white;
+        font-size: 14px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        padding: 0 0 2px 0;
+    }
+
+
+    .bodyrepair .bodyrepairtext {
+        font-size: 10px;
+        text-align: left;
+        font-family: 'Mitr', sans-serif;
+        margin: 0 0 30px 36px;
+        width: 344px;
+    }
+
+
+    .bodyrepair .repaircases {
+        margin: 0 0 0 1px;
+    }
+
+    .bodyrepair .repairbutton {
+        width: 220px;
+        height: 40px;
+        border: 3px solid black;
+        margin: 31px 0 0px 90px;
+        background-color: white;
+        font-size: 14px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    }
+
+    .bodyrepair {
+        margin: 0 0 60px 0;
+    }
+
+
+    .map .mapcart iframe {
+        width: 359px;
+        height: 250px;
+        border: 0;
+        margin: 0 0 0px 25px;
+    }
+
+    footer .footerfirstcase {
+        font-size: 16px;
+        font-weight: bold;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        padding: 7px 0 0 30px;
+        margin: -28px 0 0 0;
+    }
+
+    footer .footersecondcase {
+        font-size: 16px;
+        font-weight: bold;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        padding: 0 0 0 380px;
+        margin: -87px 0 30px -159px;
+        width: 166px;
+    }
+
+    .offer .offercaseone .casefirst {
+        font-size: 14px;
+        padding: 0 0 15px 121px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    }
+
+    .offer h1 {
+        font-size: 16px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        margin: 40px 0 20px 150px;
+    }
+
+    .offer .offercasetwo .offercasetxt {
+        font-size: 14px;
+        padding: 73px 0 0px 143px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        width: 305px;
+    }
+    }
+
+@media(max-width:328px){
+    .secondscr .secscttxt {
+        font-size: 22px;
+        color: white;
+        font-family: 'Mitr', sans-serif;
+        padding: -1px 0 0 0;
+        margin: -135px 0 0 15px;
+        font-weight: bold;
+    }
+
+    .header .logo {
+        font-size: 16px;
+        font-family: 'Monoton', cursive;
+        width: 170px;
+        text-align: center;
+        color: white;
+    }
+
+
+    .header .linksimg a {
+        padding: 0 0 0 5px;
+    }
+
+    .header .linksimg {
+        margin: -114px 0 0 169px;
+    }
+
+    .header .navigation {
+        margin: -13px 0 0 133px;
+    }
+
+    .header .navigation a {
+        text-decoration: none;
+        font-size: 10px;
+        color: white;
+        font-family: 'Mitr', sans-serif;
+        padding: 0 0 0 5px;
+    }
+
+    .header .linksimg {
+        margin: -57px 0 0 169px;
+    }
+
+    .header .linksimg a img {
+        width: 20px;
+        height: 20px;
+    }
+
+    .header .navigation {
+        margin: -23px 0 0 160px;
+    }
+
+    .header .linksimg {
+        margin: -44px 0 0 186px;
+    }
+
+    .header {
+        width: auto;
+        height: 74px;
+        padding: 25px 0 0 0;
+    }
+
+    .whychoose .wctextgoal {
+        color: white;
+        font-family: 'Mitr', sans-serif;
+        font-size: 12px;
+        font-weight: bold;
+        padding: 25px 0 40px 18px;
+    }
+
+    .whychoose div img {
+        width: 24px;
+        height: 24px;
+        padding: 0 0 0 19px;
+    }
+
+    .whychoose div .pwc {
+        padding: 0px 0 0 19px;
+    }
+
+    .whychoose div p {
+        color: white;
+        font-family: 'Mitr', sans-serif;
+        font-size: 9px;
+        margin: -43px 0 32px 0;
+        padding: 11px 0 0px 64px;
+    }
+
+    .whychoose div p {
+        color: white;
+        font-family: 'Mitr', sans-serif;
+        font-size: 9px;
+        margin: -30px 0 32px 0;
+        padding: 5px 0 0px 58px;
+    }
+
+    .whychoose div .pwc {
+        margin: -9px 0 0 0;
+        padding: 0px 0 0 19px;
+    }
+
+    .whychoose div .wctext {
+        margin: -32px 0 13px 0;
+        padding: 0px 0 0 58px;
+    }
+    .whychoose .wctextgoal {
+        color: white;
+        font-family: 'Mitr', sans-serif;
+        font-size: 12px;
+        font-weight: bold;
+        padding: 25px 0 22px 23px;
+    }
+
+    .whychoose {
+        width: auto;
+        height: 284px;
+        display: block;
+        background: black;
+        margin: 19px 0 0 0;
+    }
+
+    .offer h1 {
+        font-size: 12px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        margin: 30px 0 15px 133px;
+    }
+
+    .offer .offercaseone .caseonegoaltext {
+        font-size: 10px;
+        padding: 0 0 10px 116px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    }
+
+
+    .offer .offercaseone .caseonegoaltextsecond {
+        font-size: 8px;
+        padding: 0 0 0 60px;
+        font-family: 'Mitr', sans-serif;
+        width: 254px;
+        height: 120px;
+    }
+
+
+    .offer .offercaseone .offerbtn {
+        width: 170px;
+        height: 30px;
+        border: 2px solid black;
+        margin: 0px 0 0 90px;
+        background-color: white;
+        font-size: 12px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        z-index: 1;
+        position: relative;
+    }
+
+
+    .offer .offercaseone .caseonegoaltextsecond {
+        font-size: 8px;
+        padding: 0 0 0 57px;
+        font-family: 'Mitr', sans-serif;
+        width: 254px;
+        height: 120px;
+    }
+
+    .offer .offercaseone .caseoneimg {
+        width: 270px;
+        height: 150px;
+        position: absolute;
+        padding: 0px 0px 0px 125px;
+        margin: 30px 0px 0px -90px;
+    }
+
+    .offer .offercasetwo .casetwoimg {
+        position: absolute;
+        padding: 0 0 0 0;
+        width: 270px;
+        height: 150px;
+        margin: 30px 0 0 34px;
+    }
+
+    .offer h1 {
+        font-size: 12px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        margin: 30px 0 15px 120px;
+    }
+
+    .offer .offercaseone .caseonegoaltext {
+        font-size: 10px;
+        padding: 0 0 10px 103px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    }
+
+    .offer .offercaseone .caseonegoaltextsecond {
+        font-size: 8px;
+        padding: 0 0 0 42px;
+        font-family: 'Mitr', sans-serif;
+        width: 254px;
+        height: 120px;
+    }
+
+    .offer .offercaseone .offerbtn {
+        width: 170px;
+        height: 30px;
+        border: 2px solid black;
+        margin: 0px 0 0 74px;
+        background-color: white;
+        font-size: 12px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        z-index: 1;
+        position: relative;
+    }
+
+    .offer .offercaseone .caseoneimg {
+        width: 270px;
+        height: 150px;
+        position: absolute;
+        padding: 0px 0px 0px 120px;
+        margin: 30px 0px 0px -90px;
+    }
+
+    .offer .offercasetwo .casetwotxtgoal {
+        font-size: 12px;
+        padding: 0px 0 0px 120px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        width: 87px;
+    }
+
+    .offer .offercasetwo .casetwotxt {
+        font-size: 8px;
+        padding: 20px 0 0 40px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        width: 255px;
+    }
+
+    .offer .offercaseone {
+        margin: 0 0 230px 0;
+    }
+
+    .offer .offercasetwo .offerbtncasetwo {
+        margin: 27px 0 0 75px;
+        width: 170px;
+        height: 30px;
+        font-size: 12px;
+        border: 2px solid black;
+    }
+
+    .offer .offercasetwo .casetwoimg {
+        position: absolute;
+        padding: 0 0 0 0;
+        width: 270px;
+        height: 150px;
+        margin: 30px 0 0 30px;
+    }
+
+    .offer .offercasetwo {
+        margin: 30px 0 235px 0;
+    }
+
+    .offer .offercaseone .caseonegoaltext {
+        font-size: 12px;
+        padding: 0 0 10px 120px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    }
+
+    .offer .offercaseone .caseonegoaltextsecond {
+        font-size: 8px;
+        padding: 0 0 0 40px;
+        font-family: 'Mitr', sans-serif;
+        width: 259px;
+        height: 100px;
+    }
+
+    .offer .offercasetwo .casetwotxtgoal {
+        font-size: 12px;
+        padding: 0px 0 0px 47px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        width: 236px;
+    }
+
+    .offer .offercasetwo .offercasetxt {
+        font-size: 12px;
+        padding: 0px 0 0px 117px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        width: 100px;
+    }
+
+    .offer .offercaseone .casefirst {
+        font-size: 12px;
+        padding: 0 0 10px 94px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    }
+
+    .line {
+        width: 270px;
+        height: 2px;
+        background: black;
+        margin: 38px 0 38px 30px;
+    }
+
+    .forslider .forslidertxtgoal {
+        font-size: 12px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        margin: 0 0 15px 0;
+        text-align: center;
+    }
+
+    .prev, .next {
+        font-size: 20px;
+    }
+
+    .slideshow-container .mySlides img {
+        height: 167px;
+        width: 280px;
+    }
+
+    .slideshow-container {
+        height: 167px;
+        width: 280px;
+        position: relative;
+        margin: 0 0 0 20px;
+    }
+
+
+    .slideshow-container {
+        height: 167px;
+        width: 280px;
+        position: relative;
+        margin: 0 0 0 26px;
+    }
+
+    .forslider .sliderbutton {
+        width: 170px;
+        height: 30px;
+        border: 2px solid black;
+        margin: 30px 0 0px 89px;
+        background-color: white;
+        font-size: 12px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    }
+
+
+    .uniquecolor .uniquetxtgoal {
+        font-size: 12px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        text-align: center;
+        margin-bottom: 15px;
+    }
+
+    .uniquecolor .uniquetxt {
+        font-size: 10px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        text-align: center;
+        margin: 0 0 20px 30px;
+        width: 273px;
+    }
+
+    .marquee-item img {
+        display: block;
+        width: auto;
+        height: 130px;
+    }
+
+    .uniquecolor .uniquebutton {
+        width: 170px;
+        height: 30px;
+        border: 2px solid black;
+        margin: 30px 0 0px 85px;
+        background-color: white;
+        font-size: 12px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        padding: 0 0 2px 0;
+    }
+
+    .bodyrepair .bodyrepairtextgoal {
+        font-size: 12px;
+        text-align: center;
+        font-family: 'Mitr', sans-serif;
+        margin: 0 0 15px 0px;
+    }
+
+    .bodyrepair .bodyrepairtext {
+        font-size: 8px;
+        text-align: left;
+        font-family: 'Mitr', sans-serif;
+        margin: 0 0 20px 30px;
+        width: 283px;
+    }
+
+    .bodyrepair .bodyrepairtextgoal2 {
+        font-size: 10px;
+        text-align: center;
+        font-family: 'Mitr', sans-serif;
+        margin: 0 0 20px 2px;
+    }
+
+    .bodyrepair .repaircases div {
+        display: flex;
+        padding: 0px 0 0 15px;
+    }
+
+    .bodyrepair .repaircases div img {
+        width: 14px;
+        height: 24px;
+    }
+
+    .bodyrepair .repaircases div p {
+        font-size: 8px;
+        font-family: 'Mitr', sans-serif;
+        padding: 10px 0 0 37px;
+    }
+
+    .bodyrepair .repaircases .repairfirstp {
+        padding: 5px 0 0 8px;
+    }
+
+    .bodyrepair .repaircases div p {
+        font-size: 8px;
+        font-family: 'Mitr', sans-serif;
+        padding: 0px 0 0 8px;
+    }
+
+    .bodyrepair .repaircases .repairallp {
+        padding: 5px 0 0 8px;
+    }
+
+    .bodyrepair .repaircases div {
+        display: flex;
+        padding: 5px 0 0 15px;
+    }
+
+    .bodyrepair .repairbutton {
+        width: 170px;
+        height: 30px;
+        border: 2px solid black;
+        margin: 10px 0 0px 70px;
+        background-color: white;
+        font-size: 12px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    }
+
+    .bodyrepair {
+        margin: 0 0 40px 0;
+    }
+
+    .map .mapgoaltxt {
+        font-size: 12px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        text-align: center;
+        margin-bottom: 24px;
+    }
+    .line {
+        width: 270px;
+        height: 2px;
+        background: black;
+        margin: 38px 0 30px 30px;
+    }
+
+    .map .mapcart iframe {
+        width: 270px;
+        height: 130px;
+        border: 0;
+        margin: 0 0 0px 30px;
+    }
+
+    .map {
+        margin: 0 0 45px 0;
+    }
+
+    footer .footerfirstcase {
+        font-size: 10px;
+        font-weight: bold;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        padding: 7px 0 0 30px;
+        margin: -28px 0 0 0;
+    }
+
+    footer .footerfirstcase p {
+        font-size: 8px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    }
+
+    footer .footersecondcase {
+        font-size: 10px;
+        font-weight: bold;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        padding: 0 0 0 380px;
+        margin: -104px 0 5px -204px;
+        width: 100px;
+    }
+
+    footer .footersecondcase p {
+        font-size: 8px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+    }
+
+    footer .footersecondcase .imgwrapperfooter img {
+        width: 20px;
+        height: 20px;
+        padding: 0 0 0 4px;
+    }
+
+    footer .footersecondcase .imgwrapperfooter {
+        margin: 10px 0 0 -8px;
+    }
+
+    footer .footersecondcase {
+        font-size: 10px;
+        font-weight: bold;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        padding: 0 0 0 380px;
+        margin: -65px 0 5px -185px;
+        width: 100px;
+    }
+
+    .offer h1 {
+        font-size: 12px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        margin: 30px 0 15px 122px;
+    }
+}
+
+
+/* adaprive pop-up */
+
+@media(max-width:1200px) {
+
+#parent_popup #popup .popupinput input {
+    width: 390px;
+    height: 100%;
+    padding-left: 0 20px;
+    font-size: 20px;
+    padding: 10px 5px 5px 5px;
+}
+
+#parent_popup #popup .popupinput {
+    margin: 0px 0 0 54px;
+}
+
+}
+
+@media(max-width:992px) {
+    #parent_popup #popup .popupinput {
+        margin: -1px 0 0 54px;
+    }
+}
+
+@media(max-width:768px) {
+#parent_popup #popup .popupinput {
+    margin: 0px 0 0 54px;
+}
+}
+@media(max-width:576px) {
+#popup {
+    width: 390px;
+}
+
+#parent_popup #popup .popuplogo {
+    font-size: 32px;
+    font-family: 'Monoton', cursive;
+    width: 432px;
+    text-align: center;
+    color: black;
+    /* margin: 0 auto; */
+    padding: 0 0 20px 0;
+    margin: 0 0 0 -18px;
+}
+
+#parent_popup #popup .popuptxt {
+    font-family: 'Mitr', sans-serif;
+    font-size: 20px;
+    margin: 0 0 30px 52px;
+}
+
+#parent_popup #popup .popupinput input {
+    width: 300px;
+    height: 100%;
+    padding-left: 0 20px;
+    font-size: 20px;
+    padding: 10px 5px 5px 5px;
+}
+
+#parent_popup #popup .popupinput {
+    margin: 0px 0 0 41px;
+}
+
+#parent_popup #popup .popupagree {
+    margin: 0 0 0 55px;
+    display: flex;
+}
+
+#parent_popup #popup .btninputs {
+    width: 240px;
+    height: 45px;
+    border: 3px solid black;
+    margin: 30px 0 20px 77px;
+    background-color: white;
+    font-size: 24px;
+    color: black;
+    font-family: 'Mitr', sans-serif;
+    z-index: 1;
+    position: relative;
+}
+}
+
+
+/* 528px all right */
+
+
+@media(max-width:428px){
+    #popup {
+        margin: 79px 0 0 22px;
+        width: 320px;
+    }
+
+    #parent_popup #popup .popuplogo {
+        font-size: 30px;
+        font-family: 'Monoton', cursive;
+        width: 432px;
+        text-align: center;
+        color: black;
+        /* margin: 0 auto; */
+        padding: 0 0 10px 0;
+        margin: 5px 0 0 -56px;
+    }
+
+    #parent_popup #popup .popuptxt {
+        font-family: 'Mitr', sans-serif;
+        font-size: 16px;
+        margin: 0 0 30px 45px;
+    }
+
+    #parent_popup #popup .popupinput input {
+        width: 253px;
+        height: 100%;
+        padding-left: 0 20px;
+        font-size: 20px;
+        padding: 10px 5px 5px 5px;
+    }
+
+    #parent_popup #popup .popupinput {
+        margin: 0px 0 0 27px;
+    }
+
+    #parent_popup #popup .popupagree {
+        margin: 0 0 0 48px;
+        display: flex;
+    }
+
+    #parent_popup #popup .popupagree label {
+        font-size: 14px;
+        font-family: 'Mitr', sans-serif;
+        padding: 16px 0 0px 15px;
+        margin: 0px 0 0 0px;
+    }
+
+    #parent_popup #popup .popupagree input {
+        width: 22px;
+        height: 22px;
+        margin: 20px 0 0 0;
+    }
+
+    #parent_popup #popup .popupagree label {
+        font-size: 14px;
+        font-family: 'Mitr', sans-serif;
+        padding: 19px 0 0px 10px;
+        margin: 0px 0 0 0px;
+    }
+
+    #parent_popup #popup .btninputs {
+        width: 210px;
+        height: 40px;
+        border: 3px solid black;
+        margin: 25px 0 20px 65px;
+        background-color: white;
+        font-size: 20px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        z-index: 1;
+        position: relative;
+    }
+
+   
+#parent_popup #popup .popuplogo {
+    font-size: 30px;
+    font-family: 'Monoton', cursive;
+    width: 280px;
+    text-align: center;
+    color: black;
+    /* margin: 0 auto; */
+    padding: 0 0 10px 0;
+    margin: 5px 0 0 14px;
+}
+
+
+}
+
+@media(max-width:404px){
+    #popup {
+        margin: 79px 0 0 6px;
+        width: 320px;
+    }
+}
+
+
+@media (max-width: 425px){
+/* .offer .offercasetwo .offercasetxt {
+    font-size: 14px;
+    padding: 73px 0 0px 172px;
+    color: black;
+    font-family: 'Mitr', sans-serif;
+    width: 205px;
+} */
+
+/* .offer h1 {
+    margin: 40px 0 20px 169px;
+}
+*/
+.offer .offercaseone .casefirst {
+    padding: 0 0 15px 139px;
+} 
+
+
+}
+
+
+@media (max-width: 404px){
+     .offer .offercasetwo .offercasetxt {
+        font-size: 14px;
+        padding: 73px 0 0px 147px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        width: 205px;
+     }
+
+    .header .navigation a {
+        font-size: 11px;
+    } 
+
+    #popup {
+        margin: 79px 0 0 3px;
+        width: 308px;
+    }
+
+    #parent_popup #popup .popuplogo {
+        font-size: 30px;
+        font-family: 'Monoton', cursive;
+        width: 280px;
+        text-align: center;
+        color: black;
+        /* margin: 0 auto; */
+        padding: 0 0 10px 0;
+        margin: 5px 0 0 11px;
+    }
+
+    #parent_popup #popup .popuptxt {
+        font-family: 'Mitr', sans-serif;
+        font-size: 16px;
+        margin: 0 0 30px 36px;
+    }
+
+    #parent_popup #popup .popupinput {
+        margin: 0px 0 0 19px;
+    }
+
+    #parent_popup #popup .popupagree {
+        margin: 0 0 0 39px;
+        display: flex;
+    }
+
+    #parent_popup #popup .btninputs {
+        width: 210px;
+        height: 40px;
+        border: 3px solid black;
+        margin: 25px 0 20px 53px;
+        background-color: white;
+        font-size: 20px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        z-index: 1;
+        position: relative;
+    }
+
+    
+}
