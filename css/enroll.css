@@ -1,0 +1,883 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mitr&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.inputs .firstinput{
+    position: relative;
+    margin: 250px 0 0 502px;
+  
+}
+
+.inputs .firstinput input{
+    width: 450px;
+    height: 100%;
+    padding-left: 0 20px;
+    font-size: 20px;
+    padding: 10px 5px 5px 5px;
+}
+
+.inputs .firstinput label{
+    display: block;
+    position: absolute;
+    height: 18px;
+    left: 11px;
+    top: -9px;
+    padding: 0 8px;
+    background-color: #fff;
+    font-size: 16px;
+    margin-bottom: 0; 
+    font-family: 'Mitr', sans-serif;
+    margin: -4px 0 0 0;
+}
+
+.inputs .secondinput{
+    position: relative;
+    margin: 40px 0 0 502px;
+}
+
+.inputs .secondinput input{
+    width: 450px;
+    height: 100%;
+    padding-left: 0 20px;
+    font-size: 20px;
+    padding: 10px 5px 5px 5px;
+}
+
+.inputs .secondinput label{
+    display: block;
+    position: absolute;
+    height: 18px;
+    left: 12px;
+    top: -9px;
+    padding: 0 8px;
+    background-color: #fff;
+    font-size: 16px;
+    margin-bottom: 0;
+    font-family: 'Mitr', sans-serif;
+    margin: -4px 0 0 0;
+}
+
+.inputs .thirdinput{
+    position: relative;
+    margin: 40px 0 0 502px;
+}
+
+.inputs .thirdinput input{
+    width: 450px;
+    height: 100%;
+    padding-left: 0 20px;
+    font-size: 20px;
+    padding: 10px 5px 5px 5px;
+}
+
+.inputs .thirdinput label{
+    display: block;
+    position: absolute;
+    height: 18px;
+    left: 12px;
+    top: -9px;
+    padding: 0 8px;
+    background-color: #fff;
+    font-size: 16px;
+    margin-bottom: 0;
+    font-family: 'Mitr', sans-serif;
+    margin: -4px 0 0 0;
+}
+
+
+.inputs .fourthinput{
+    position: relative;
+    margin: 40px 0 0 502px;
+}
+
+.inputs .fourthinput textarea {  
+    width: 450px;
+    height: 100px;
+    padding-left: 0 20px;
+    font-size: 20px;
+    padding: 10px 5px 5px 5px;
+    resize: none;
+}
+
+.inputs .fourthinput label {
+    display: block;
+    position: absolute;
+    height: 18px;
+    left: 12px;
+    top: -9px;
+    padding: 0 8px;
+    background-color: #fff;
+    font-size: 16px;
+    margin-bottom: 0;
+    font-family: 'Mitr', sans-serif;
+    margin: -4px 0 0 0;
+}
+
+.inputs .agree{
+    display: flex;
+    margin: 35px 0 0 618px;
+}
+
+.inputs .agree label{
+    font-size: 18px;
+    font-family: 'Mitr', sans-serif;
+    padding: 0 0 0 10px;
+}
+
+.inputs .agree input{
+    width: 25px;
+    height: 25px;
+}
+
+.inputs .btninputs{
+    width: 260px;
+    height: 50px;
+    border: 3px solid black;
+    margin: 30px 0 20px 600px;
+    background-color: white;
+    font-size: 24px;
+    color: black;
+    font-family: 'Mitr', sans-serif;
+    z-index: 1;
+    position: relative;
+
+}
+
+.inputs .btninputs:hover{
+    background-color: black;
+    color: white;
+}
+
+.inputs .agree label {
+    font-size: 18px;
+    font-family: 'Mitr', sans-serif;
+    padding: 0px 0 0px 10px;
+    margin: -2px 0 0 0;
+}
+
+.inputs .agree {
+    display: flex;
+    margin: 35px 0 0 587px;
+}
+
+.logoenroll {
+    font-size: 36px;
+    font-family: 'Monoton', cursive;
+    width: 432px;
+    text-align: center;
+    color: black;
+    margin: 25px 0 0 506px;
+}
+
+.inputs .firstinput {
+    position: relative;
+    margin: 60px 0 0 502px;
+}
+
+/* adaptive enroll */
+
+@media (max-width:1200px){
+    .logoenroll {
+        font-size: 36px;
+        font-family: 'Monoton', cursive;
+        width: 432px;
+        text-align: center;
+        color: black;
+        margin: 25px 0 0 355px;
+    }
+
+    .inputs .firstinput {
+        position: relative;
+        margin: 60px 0 0 345px;
+    }
+
+    .inputs .secondinput {
+        position: relative;
+        margin: 40px 0 0 345px;
+    }
+
+    .inputs .thirdinput {
+        position: relative;
+        margin: 40px 0 0 345px;
+    }
+
+    .inputs .fourthinput {
+        position: relative;
+        margin: 40px 0 0 345px;
+    }
+
+    .inputs .agree {
+        display: flex;
+        margin: 35px 0 0 429px;
+    }
+
+.inputs .btninputs {
+    width: 260px;
+    height: 50px;
+    border: 3px solid black;
+    margin: 30px 0 20px 451px;
+    background-color: white;
+    font-size: 24px;
+    color: black;
+    font-family: 'Mitr', sans-serif;
+    z-index: 1;
+    position: relative;
+}
+}
+
+@media(max-width:992px){
+    .logoenroll {
+        font-size: 36px;
+        font-family: 'Monoton', cursive;
+        width: 432px;
+        text-align: center;
+        color: black;
+        margin: 25px 0 0 285px;
+    }
+
+    .inputs .firstinput {
+        position: relative;
+        margin: 60px 0 0 260px;
+    }
+
+    .inputs .secondinput {
+        position: relative;
+        margin: 40px 0 0 260px;
+    }
+
+    .inputs .thirdinput {
+        position: relative;
+        margin: 40px 0 0 260px;
+    }
+    
+    .inputs .fourthinput {
+        position: relative;
+        margin: 40px 0 0 260px;
+    }
+
+    .inputs .agree {
+        display: flex;
+        margin: 35px 0 0 348px;
+    }
+
+    .inputs .btninputs {
+        width: 260px;
+        height: 50px;
+        border: 3px solid black;
+        margin: 30px 0 20px 370px;
+        background-color: white;
+        font-size: 24px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        z-index: 1;
+        position: relative;
+    }
+}
+
+@media(max-width:768px){
+    .logoenroll {
+        font-size: 36px;
+        font-family: 'Monoton', cursive;
+        width: 432px;
+        text-align: center;
+        color: black;
+        margin: 25px 0 0 160px;
+    }
+
+    .inputs .firstinput {
+        position: relative;
+        margin: 50px 0 0 146px;
+    }
+
+    .inputs .secondinput {
+        position: relative;
+        margin: 40px 0 0 146px;
+    }
+
+    .inputs .thirdinput {
+        position: relative;
+        margin: 40px 0 0 146px;
+    }
+
+    .inputs .fourthinput {
+        position: relative;
+        margin: 40px 0 0 146px;
+    }
+
+
+    .inputs .agree {
+        display: flex;
+        margin: 35px 0 0 234px;
+    }
+
+    .inputs .btninputs {
+        width: 260px;
+        height: 50px;
+        border: 3px solid black;
+        margin: 30px 0 20px 257px;
+        background-color: white;
+        font-size: 24px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        z-index: 1;
+        position: relative;
+    }
+
+    .enrollline {
+        width: 700px;
+        height: 3px;
+        background: black;
+        margin: 38px 0 55px 35px;
+    }
+}
+
+@media(max-width:576px){
+    .logoenroll {
+        font-size: 36px;
+        font-family: 'Monoton', cursive;
+        width: 432px;
+        text-align: center;
+        color: black;
+        margin: 25px 0 0 147px;
+    }
+
+    .inputs .firstinput {
+        position: relative;
+        margin: 50px 0 0 130px;
+    }
+
+    .inputs .secondinput {
+        position: relative;
+        margin: 40px 0 0 130px;
+    }
+
+    .inputs .thirdinput {
+        position: relative;
+        margin: 40px 0 0 130px;
+    }
+
+    .inputs .fourthinput {
+        position: relative;
+        margin: 40px 0 0 130px;
+    }
+
+    .enrollline {
+        width: 530px;
+        height: 3px;
+        background: black;
+        margin: 38px 0 55px 35px;
+    }
+
+    .logoenroll {
+        font-size: 30px;
+        font-family: 'Monoton', cursive;
+        width: 432px;
+        text-align: center;
+        color: black;
+        margin: 25px 0 0 80px;
+    }
+
+    .inputs .firstinput input {
+        width: 400px;
+        height: 100%;
+        padding-left: 0 20px;
+        font-size: 20px;
+        padding: 10px 5px 5px 5px;
+    }
+
+    .inputs .firstinput {
+        position: relative;
+        margin: 40px 0 0 95px;
+    }
+
+    .inputs .secondinput input {
+        width: 400px;
+        height: 100%;
+        padding-left: 0 20px;
+        font-size: 20px;
+        padding: 10px 5px 5px 5px;
+    }
+
+    .inputs .secondinput {
+        position: relative;
+        margin: 30px 0 0 95px;
+    }
+
+    .inputs .thirdinput {
+        position: relative;
+        margin: 30px 0 0 95px;
+    }
+
+    .inputs .thirdinput input {
+        width: 400px;
+        height: 100%;
+        padding-left: 0 20px;
+        font-size: 20px;
+        padding: 10px 5px 5px 5px;
+    }
+
+
+    .inputs .fourthinput {
+        position: relative;
+        margin: 30px 0 0 95px;
+    }
+
+    .inputs .fourthinput textarea {
+        width: 400px;
+        height: 100px;
+        padding-left: 0 20px;
+        font-size: 20px;
+        padding: 10px 5px 5px 5px;
+        resize: none;
+    }
+
+    .inputs .agree input {
+        width: 20px;
+        height: 20px;
+    }
+
+    .inputs .agree label {
+        font-size: 16px;
+        font-family: 'Mitr', sans-serif;
+        padding: 0px 0 0px 10px;
+        margin: -3px 0 0 0;
+    }
+
+    .inputs .agree {
+        display: flex;
+        margin: 35px 0 0 173px;
+    }
+
+    .inputs .btninputs {
+        width: 235px;
+        height: 43px;
+        border: 3px solid black;
+        margin: 30px 0 20px 189px;
+        background-color: white;
+        font-size: 24px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        z-index: 1;
+        position: relative;
+    }
+
+    .enrollline {
+        width: 506px;
+        height: 3px;
+        background: black;
+        margin: 38px 0 55px 35px;
+    }
+
+    .inputs .firstinput {
+        position: relative;
+        margin: 40px 0 0 85px;
+    }
+
+    .inputs .secondinput {
+        position: relative;
+        margin: 30px 0 0 85px;
+    }
+
+    .inputs .thirdinput {
+        position: relative;
+        margin: 30px 0 0 85px;
+    }
+
+    .inputs .fourthinput {
+        position: relative;
+        margin: 30px 0 0 85px;
+    }
+
+    .inputs .agree {
+        display: flex;
+        margin: 35px 0 0 155px;
+    }
+
+    .inputs .btninputs {
+        width: 235px;
+        height: 43px;
+        border: 3px solid black;
+        margin: 30px 0 20px 172px;
+        background-color: white;
+        font-size: 24px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        z-index: 1;
+        position: relative;
+    }
+}
+
+
+@media(max-width:528px){
+    .enrollline {
+        width: 460px;
+        height: 3px;
+        background: black;
+        margin: 38px 0 55px 35px;
+    }
+
+    .logoenroll {
+        font-size: 30px;
+        font-family: 'Monoton', cursive;
+        width: 432px;
+        text-align: center;
+        color: black;
+        margin: 25px 0 0 50px;
+    }
+
+    .inputs .firstinput input {
+        width: 350px;
+        height: 100%;
+        padding-left: 0 20px;
+        font-size: 20px;
+        padding: 10px 5px 5px 5px;
+    }
+
+    .inputs .firstinput {
+        position: relative;
+        margin: 30px 0 0 84px;
+    }
+
+    .inputs .secondinput input {
+        width: 350px;
+        height: 100%;
+        padding-left: 0 20px;
+        font-size: 20px;
+        padding: 10px 5px 5px 5px;
+    }
+
+    .inputs .secondinput {
+        position: relative;
+        margin: 30px 0 0 84px;
+    }
+
+    .inputs .thirdinput input {
+        width: 350px;
+        height: 100%;
+        padding-left: 0 20px;
+        font-size: 20px;
+        padding: 10px 5px 5px 5px;
+    }
+
+    .inputs .thirdinput {
+        position: relative;
+        margin: 30px 0 0 84px;
+    }
+
+    .inputs .fourthinput {
+        position: relative;
+        margin: 30px 0 0 84px;
+    }
+
+    .inputs .fourthinput textarea {
+        width: 350px;
+        height: 100%;
+        padding-left: 0 20px;
+        font-size: 20px;
+        padding: 10px 5px 5px 5px;
+    }
+
+    .logoenroll {
+        font-size: 30px;
+        font-family: 'Monoton', cursive;
+        width: 432px;
+        text-align: center;
+        color: black;
+        margin: 25px 0 0 52px;
+    }
+
+    .inputs .agree {
+        display: flex;
+        margin: 35px 0 0 135px;
+    }
+
+    .inputs .btninputs {
+        width: 215px;
+        height: 43px;
+        border: 3px solid black;
+        margin: 30px 0 20px 171px;
+        background-color: white;
+        font-size: 20px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        z-index: 1;
+        position: relative;
+    }
+}
+
+
+@media(max-width:428px){
+    .logoenroll {
+        font-size: 30px;
+        font-family: 'Monoton', cursive;
+        width: 279px;
+        text-align: center;
+        color: black;
+        margin: 25px 0 0 110px;
+    }
+
+    .inputs .firstinput input {
+        width: 325px;
+        height: 100%;
+        padding-left: 0 20px;
+        font-size: 20px;
+        padding: 10px 5px 5px 5px;
+    }
+
+    .enrollline {
+        width: 414px;
+        height: 3px;
+        background: black;
+        margin: 38px 0 55px 35px;
+    }
+
+    .logoenroll {
+        font-size: 30px;
+        font-family: 'Monoton', cursive;
+        width: 279px;
+        text-align: center;
+        color: black;
+        margin: 25px 0 0 104px;
+    }
+
+    .inputs .firstinput {
+        position: relative;
+        margin: 31px 0 0 75px;
+    }
+
+    .inputs .secondinput input {
+        width: 325px;
+        height: 100%;
+        padding-left: 0 20px;
+        font-size: 20px;
+        padding: 10px 5px 5px 5px;
+    }
+
+    .inputs .secondinput {
+        position: relative;
+        margin: 31px 0 0 75px;
+    }
+
+    .inputs .thirdinput {
+        position: relative;
+        margin: 32px 0 1px 75px;
+    }
+
+    .inputs .thirdinput input {
+        width: 325px;
+        height: 100%;
+        padding-left: 0 20px;
+        font-size: 20px;
+        padding: 10px 5px 5px 5px;
+    }
+    
+    .inputs .fourthinput {
+        position: relative;
+        margin: 31px 0 0px 75px;
+    }
+
+    .inputs .fourthinput textarea {
+        width: 325px;
+        height: 100%;
+        padding-left: 0 20px;
+        font-size: 20px;
+        padding: 10px 5px 5px 5px;
+    }
+
+    .inputs .agree {
+        display: flex;
+        margin: 30px 0 0 110px;
+    }
+
+    .inputs .btninputs {
+        width: 215px;
+        height: 43px;
+        border: 3px solid black;
+        margin: 25px 0 20px 147px;
+        background-color: white;
+        font-size: 20px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        z-index: 1;
+        position: relative;
+    }
+
+
+    .enrollline {
+        width: 395px;
+        height: 3px;
+        background: black;
+        margin: 38px 0 55px 28px;
+    }
+
+    footer .footersecondcase .enrollimgs img{
+        width: 36px;
+        height: 36px;
+    }
+
+    footer{
+        margin: 0 0 0 -46px;
+    }
+
+    footer .enrollfirstcase{
+        padding: 7px 0 0 74px;
+    }
+
+    .logoenroll {
+        font-size: 30px;
+        font-family: 'Monoton', cursive;
+        width: 279px;
+        text-align: center;
+        color: black;
+        margin: 25px 0 0 78px;
+    }
+
+    .inputs .firstinput {
+        position: relative;
+        margin: 31px 0 0 51px;
+    }
+
+    .inputs .secondinput {
+        position: relative;
+        margin: 31px 0 0 51px;
+    }
+
+    .inputs .thirdinput {
+        position: relative;
+        margin: 32px 0 1px 51px;
+    }
+
+    .inputs .fourthinput {
+        position: relative;
+        margin: 31px 0 0px 51px;
+    }
+
+    .inputs .agree {
+        display: flex;
+        margin: 30px 0 0 90px;
+    }
+
+    .inputs .btninputs {
+        width: 215px;
+        height: 43px;
+        border: 3px solid black;
+        margin: 25px 0 20px 127px;
+        background-color: white;
+        font-size: 20px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        z-index: 1;
+        position: relative;
+    }
+
+    .enrollline {
+        width: 395px;
+        height: 3px;
+        background: black;
+        margin: 38px 0 55px 22px;
+    }
+}
+
+@media (max-width:404px){
+    .enrollline {
+        width: 356px;
+        height: 3px;
+        background: black;
+        margin: 38px 0 55px 23px;
+    }
+
+    .logoenroll {
+        font-size: 30px;
+        font-family: 'Monoton', cursive;
+        width: 279px;
+        text-align: center;
+        color: black;
+        margin: 25px 0 0 62px;
+    }
+
+    .inputs .firstinput input {
+        width: 300px;
+        height: 100%;
+        padding-left: 0 20px;
+        font-size: 20px;
+        padding: 10px 5px 5px 5px;
+    }
+
+    .inputs .firstinput {
+        position: relative;
+        margin: 31px 0 0 47px;
+    }
+
+    .inputs .secondinput input {
+        width: 300px;
+        height: 100%;
+        padding-left: 0 20px;
+        font-size: 20px;
+        padding: 10px 5px 5px 5px;
+    }
+
+    .inputs .secondinput {
+        position: relative;
+        margin: 31px 0 0 47px;
+    }
+
+    .inputs .thirdinput {
+        position: relative;
+        margin: 32px 0 1px 47px;
+    }
+
+    .inputs .thirdinput input {
+        width: 300px;
+        height: 100%;
+        padding-left: 0 20px;
+        font-size: 20px;
+        padding: 10px 5px 5px 5px;
+    }
+
+    .inputs .fourthinput {
+        position: relative;
+        margin: 31px 0 0px 47px;
+    }
+
+    .inputs .fourthinput textarea {
+        width: 300px;
+        height: 100%;
+        padding-left: 0 20px;
+        font-size: 20px;
+        padding: 10px 5px 5px 5px;
+    }
+
+    .inputs .agree {
+        display: flex;
+        margin: 30px 0 0 75px;
+    }
+
+    .inputs .btninputs {
+        width: 215px;
+        height: 43px;
+        border: 3px solid black;
+        margin: 25px 0 20px 109px;
+        background-color: white;
+        font-size: 20px;
+        color: black;
+        font-family: 'Mitr', sans-serif;
+        z-index: 1;
+        position: relative;
+    }
+
+    footer .footersecondcase .enrollimgs img {
+        width: 24px;
+        height: 24px;
+    }
+
+    footer .enrollimgs{
+        margin: 10px 0 0 -4px;
+    }
+
+    footer .enrollsecondcase{
+        margin: -87px 0 30px -103px;
+    }
+}
